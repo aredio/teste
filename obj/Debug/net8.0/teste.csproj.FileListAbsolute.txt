@@ -1,0 +1,14 @@
+c:\Users\red-o\Desktop\dev\teste\bin\Debug\net8.0\teste.exe
+C:\Users\red-o\Desktop\dev\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\red-o\Desktop\dev\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+c:\Users\red-o\Desktop\dev\teste\bin\Debug\net8.0\teste.dll
+c:\Users\red-o\Desktop\dev\teste\bin\Debug\net8.0\teste.pdb
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.dll
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\refint\teste.dll
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\ref\teste.dll
