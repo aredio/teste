@@ -12,3 +12,4 @@ c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\refint\teste.dll
 c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.pdb
 C:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
 C:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\ref\teste.dll
+c:\Users\red-o\Desktop\dev\teste\obj\Debug\net8.0\teste.sourcelink.json
